@@ -1,0 +1,16 @@
+type: marketplace
+title: 예제로 익히는 코틀린
+language: Korean
+summary: |-
+  이 강좌는 코틀린 공식 홈페이지의 Learn Kotlin by Example을 참고하여 제작되었습니다. 원문의 내용을 대체로 충실히 따르되, 이해하기 쉽도록 일부 내용을 재구성하였으며, 중요하지 않은 섹션은 생략하였습니다.
+  
+  본 강좌는 예제 중심의 접근 방식을 취하고 있어, 코틀린의 다양한 기능을 실용적으로 이해하고 익힐 수 있습니다. 특히 코틀린을 처음 접하시는 분들을 위해 작은 코드 조각들을 제공하여, 이를 직접 실행하고 결과를 확인하는 방식으로 학습하게 됩니다. 코드를 수정한 후 다시 실행하는 과정을 반복하면서 학습을 진행하게 됩니다.
+  
+  원문에는 프로그래밍 지식이 없어도 따라 할 수 있다고 안내되어 있지만, 기본적인 프로그래밍 지식이 있다면 학습이 더욱 수월해질 것입니다.
+  
+  본 강좌는 스프링러너(SpringRunner, https://springrunner.dev/) 팀에서 제작하였습니다.
+programming_language: Kotlin
+content:
+  - introduction
+environment_settings:
+  jvm_language_level: JDK_17

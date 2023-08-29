@@ -1,0 +1,8 @@
+# Projects
+docs/
+
+# Tools
+.coursecreator
+.idea
+.gradle
+build/

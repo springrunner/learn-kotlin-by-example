@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloWorldKt" type="JetRunConfigurationType" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="org.kotlinlang.play.HelloWorldKt" />
+    <module name="learn-kotlin-by-example.introduction-hello-world.main" />
+    <option name="PROGRAM_PARAMETERS" value="Hello World!" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
