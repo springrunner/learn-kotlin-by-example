@@ -1,0 +1,17 @@
+type: edu
+custom_name: Infix Functions
+files:
+  - name: src/org/kotlinlang/play/Infix.kt
+    visible: true
+    placeholders:
+      - offset: 83
+        length: 5
+        placeholder_text: TODO()
+      - offset: 215
+        length: 33
+        placeholder_text: TODO()
+      - offset: 650
+        length: 57
+        placeholder_text: TODO()
+  - name: test/org/kotlinlang/play/InfixSpec.kt
+    visible: false
