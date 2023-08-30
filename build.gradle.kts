@@ -55,3 +55,9 @@ subprojects {
         }
     }
 }
+
+configure(subprojects.filter { it.name != "support" }) {
+    dependencies {
+        implementation(project(":support"))
+    }
+}

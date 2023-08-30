@@ -25,6 +25,8 @@ rootProject.projectDir.listFiles(lessonDirectoryFilter)?.forEach { lessonDir ->
     }
 }
 
+include("support")
+
 fun String.sanitize() = this
     .replace(".", "")
     .replace(Regex("(^[.]+)|([.]+\$)"), "")

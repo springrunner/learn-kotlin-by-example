@@ -1,0 +1,33 @@
+type: edu
+custom_name: Functions
+files:
+  - name: src/org/kotlinlang/play/Basic.kt
+    visible: true
+    placeholders:
+      - offset: 29
+        length: 3
+        placeholder_text: keyword
+      - offset: 64
+        length: 12
+        placeholder_text: TODO()
+  - name: src/org/kotlinlang/play/DefaultAndNamedArguments.kt
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 16
+        placeholder_text: TODO()
+      - offset: 170
+        length: 29
+        placeholder_text: TODO()
+  - name: src/org/kotlinlang/play/SingleExpression.kt
+    visible: true
+    placeholders:
+      - offset: 60
+        length: 5
+        placeholder_text: TODO()
+  - name: test/org/kotlinlang/play/BasicSpec.kt
+    visible: false
+  - name: test/org/kotlinlang/play/DefaultAndNamedArgumentsSpec.kt
+    visible: false
+  - name: test/org/kotlinlang/play/SingleExpressionSpec.kt
+    visible: false
