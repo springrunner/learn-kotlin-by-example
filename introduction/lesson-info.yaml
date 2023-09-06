@@ -3,3 +3,4 @@ content:
   - hello-world
   - functions
   - infix-functions
+  - operator-functions

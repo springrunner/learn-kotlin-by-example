@@ -1,0 +1,15 @@
+type: output
+files:
+  - name: src/org/kotlinlang/play/Operator.kt
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 54
+        placeholder_text: TODO()
+      - offset: 130
+        length: 59
+        placeholder_text: TODO()
+  - name: test/output.txt
+    visible: false
+  - name: test/input.txt
+    visible: false
